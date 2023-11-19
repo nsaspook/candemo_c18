@@ -1,0 +1,4 @@
+Warning[2054] user/BusMon.c 954 : suspicious pointer conversion
+Warning[2054] user/BusMon.c 990 : suspicious pointer conversion
+Warning[2054] user/BusMon.c 1027 : suspicious pointer conversion
+Warning[2054] user/BusMon.c 1134 : suspicious pointer conversion
